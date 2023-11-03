@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Alexander Jason</h2>
 
 ### **About Me**
-<p>As a sophomore Computer Science student at Institut Teknologi Bandung, I dedicate lot of time seeking challenges and learning opportunities. With passion for technology and programming, I encourage myself to explore diverse areas within the field, including web development and software engineering. I am committed to keeping latest technology and trends in the industry and consistently strive to utilize my knowledge to  contribute to cutting-edge solutions.</p>
+<p>As a third year undergraduate Computer Science student at Institut Teknologi Bandung, I dedicate lot of time seeking challenges and learning opportunities. With passion for technology and programming, I encourage myself to explore diverse areas within the field, including web development and software engineering. I am committed to keeping latest technology and trends in the industry and consistently strive to utilize my knowledge to  contribute to cutting-edge solutions.</p>
 
 ### **Github Stats**
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajason36&theme=darkhub&row=1" alt="ajason36" /></a> </p>
