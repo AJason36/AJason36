@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alexander Jason</h1>
 
 ## About Me
-As a third-year undergraduate Computer Science student at Institut Teknologi Bandung, I dedicate a lot of time to seeking challenges and learning opportunities. With a passion for technology and programming, I explore diverse areas within the field, including web development and software engineering. I am committed to staying updated on the latest technology and industry trends and consistently strive to utilize my knowledge to contribute to cutting-edge solutions.
+As a final-year undergraduate Computer Science student at Institut Teknologi Bandung, I dedicate a lot of time to seeking challenges and learning opportunities. With a passion for technology and programming, I explore diverse areas within the field, including web development and software engineering. I am committed to staying updated on the latest technology and industry trends and consistently strive to utilize my knowledge to contribute to cutting-edge solutions.
 
 ## GitHub Stats
 <p align="center">
